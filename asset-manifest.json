@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/iqbal-devpy.github.io/static/css/main.50de874b.css",
+    "main.js": "/iqbal-devpy.github.io/static/js/main.e760d07e.js",
+    "static/css/64.bba8fa55.chunk.css": "/iqbal-devpy.github.io/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/iqbal-devpy.github.io/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/iqbal-devpy.github.io/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/iqbal-devpy.github.io/static/js/769.bda0d7b7.chunk.js",
+    "static/media/omani.png": "/iqbal-devpy.github.io/static/media/omani.33f899bec65446d90c1d.png",
+    "static/media/readmission.png": "/iqbal-devpy.github.io/static/media/readmission.b1a6874a1d304670b152.png",
+    "static/media/realestic.png": "/iqbal-devpy.github.io/static/media/realestic.7b03d0360dc3edf9d25c.png",
+    "static/media/optivex.jpeg": "/iqbal-devpy.github.io/static/media/optivex.bdd471ee38f66f9f099b.jpeg",
+    "static/media/resume.pdf": "/iqbal-devpy.github.io/static/media/resume.940ef0224284de7201a8.pdf",
+    "static/media/Montserrat-Regular.ttf": "/iqbal-devpy.github.io/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/iqbal-devpy.github.io/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/iqbal-devpy.github.io/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/iqbal-devpy.github.io/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/iqbal-devpy.github.io/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/su.png": "/iqbal-devpy.github.io/static/media/su.937870e7d5ce26fb7b47.png",
+    "static/media/den.png": "/iqbal-devpy.github.io/static/media/den.87881a053aab3ec1f8db.png",
+    "static/media/skill.svg": "/iqbal-devpy.github.io/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/iqbal-devpy.github.io/index.html",
+    "static/media/talksCardBack.svg": "/iqbal-devpy.github.io/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.50de874b.css.map": "/iqbal-devpy.github.io/static/css/main.50de874b.css.map",
+    "main.e760d07e.js.map": "/iqbal-devpy.github.io/static/js/main.e760d07e.js.map",
+    "64.bba8fa55.chunk.css.map": "/iqbal-devpy.github.io/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/iqbal-devpy.github.io/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/iqbal-devpy.github.io/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/iqbal-devpy.github.io/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50de874b.css",
+    "static/js/main.e760d07e.js"
+  ]
+}
