@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/iqbal-devpy",
-  linkedin: "www.linkedin.com/in/syed-ahmed-iqbal",
+  linkedin: "https://www.linkedin.com/in/syed-ahmed-iqbal/",
   gmail: "dev.iqbal3@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
