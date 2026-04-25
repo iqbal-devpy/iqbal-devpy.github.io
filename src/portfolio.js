@@ -23,10 +23,10 @@ const greeting = {
   username: "Syed Ahmed Iqbal",
   title: "Hi all, I'm Ahmed",
   subTitle: emoji(
-    "A passionate AI Engineer & Full-Stack Developer 🚀 specializing in building scalable, production-grade GenAI systems and dynamic Web & Mobile applications using FastAPI, LangChain, React, AWS, Docker, and a blend of modern technologies."
+    "A passionate AI Engineer & Full-Stack Developer 🚀 specializing in building scalable, production-grade GenAI systems and dynamic Web & Mobile applications using FastAPI, LangChain, Crew Ai, LangGraph, React, AWS, Docker, and a blend of modern technologies."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1XckwDH7n5nG3n0DOhDcokF9CC5Qga_pq/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -114,6 +114,22 @@ const skillsSection = {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
+        {
+      skillName: "LangChain",
+      fontAwesomeClassname: "fas fa-link"
+    },        
+    {
+      skillName: "Auto Gen",
+      fontAwesomeClassname: "fas fa-robot"
+    },
+    {
+      skillName: "Crew AI",
+      fontAwesomeClassname: "fas fa-users"
+    },
+    {
+      skillName: "LangGraph",
+      fontAwesomeClassname: "fas fa-project-diagram"
+    },
     // {
     //   skillName: "firebase",
     //   fontAwesomeClassname: "fas fa-fire"
@@ -135,7 +151,7 @@ const educationInfo = {
       schoolName: "Superior University",
       logo: require("./assets/images/su.png"),
       subHeader: "Bachelor of Science in Artificial Intelligence", 
-      duration: "September 2022 - April 2026",
+      // duration: "September 2022 - April 2026",
       desc: "Made countless projects on Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Data Analysis, Computer Vision, Natural Language Processing, ...",
       // descBullets: [
         // "Worked with a team to make ai interview bot that conducts interviews using multiple ML models"
@@ -196,7 +212,7 @@ const workExperiences = {
       company: "Forrentech",
       companylogo: require("./assets/images/forrentech.png"),
       date: "April 2025 - Present | Lahore, Pakistan",
-      desc: "Served as Lead Developer in a 3-member team for an AI-powered property listing application that auto-generates listings from uploaded property images.",
+      desc: "Serving as Lead Engineer in a 3-member team for an AI-powered property listing application that auto-generates listings from uploaded property images.",
       descBullets: [
         "Engineered a robust backend using Node.js (Express 5) with a 3-layer architecture, leveraging Prisma ORM and PostgreSQL for clean, scalable data flow and modular structure.",
         "Built a performant Vite + React frontend with seamless social media integration and export-to-portal features, enhancing listing visibility and marketing automation.",
@@ -244,6 +260,19 @@ const bigProjects = {
         {
           name: "Visit Website",
           url: "https://realestic-b06386cfd83b.herokuapp.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+
+        {
+      image: require("./assets/images/stream-scout.png"),
+      projectName: "Stream Scout",
+      projectDesc: "an AI-powered Twitch discovery and moderation platform delivering personalized creator and clip recommendations.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://streamscout.live/"
         }
         //  you can add extra buttons here.
       ]
